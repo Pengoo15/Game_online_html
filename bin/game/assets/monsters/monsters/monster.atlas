@@ -1,0 +1,18 @@
+monster.png
+size: 797, 456
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+bossCharge
+  bounds: 513, 288, 245, 167
+  offsets: 0, 84, 283, 324
+bossLASER
+  bounds: 513, 1, 283, 285
+  offsets: 0, 19, 283, 324
+bossMISSILE1
+  bounds: 258, 1, 253, 314
+  offsets: 21, 6, 283, 324
+bossWalk2
+  bounds: 1, 1, 255, 316
+  offsets: 19, 6, 280, 326

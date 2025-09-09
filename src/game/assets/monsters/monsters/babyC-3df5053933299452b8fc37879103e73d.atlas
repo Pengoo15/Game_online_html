@@ -1,0 +1,11 @@
+babyC.png
+size: 1403, 980
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+Bang
+  bounds: 0, 0, 1003, 980
+  offsets: 16, 11, 1024, 1024
+big
+  bounds: 1003, 0, 400, 400

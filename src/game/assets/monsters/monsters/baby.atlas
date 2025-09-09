@@ -1,0 +1,12 @@
+baby.png
+size: 217, 318
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+baby
+  bounds: 1, 1, 215, 316
+  offsets: 1, 1, 217, 318
+baby1
+  bounds: 1, 1, 215, 316
+  offsets: 362, 511, 1024, 1024
